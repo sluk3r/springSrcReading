@@ -17,7 +17,16 @@
 
 9. EntityResolver是org.xml.sax中的定义， 它在Xml解析过程中的价值，后面再系统性地梳理![](/assets/ResourceEntityResolver.png)
 
-10. 先init再真正地load,![](/assets/initThenLoad.png), 看注释很有
+10. 先init再真正地load,![](/assets/initThenLoad.png), 看注释很有同感。
 
+11. 一个locationPattern返回Resource\[\], ![](/assets/locationPattern-multi-Resource.png)
+
+12. 自带的PathMatcher实现类中只有AntPathMatcher， 暂没有别的实现。
+
+13. Context是一个重要的理念， 不单单像Map一样， 也可以往Context中放使用到的引用，![](/assets/ReaderContext.png)
+
+14. Delegate是真正干活的，这个很正常，外面都被协调给包围了 ![](/assets/delegate.png)这个类是Stateful的考虑是？ 
+
+15. 
 
 
