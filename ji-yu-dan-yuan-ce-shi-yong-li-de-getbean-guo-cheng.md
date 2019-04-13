@@ -1,4 +1,4 @@
-1. 入口类：   
+1. 入口类：  
    ![](/assets/entry.png)
 
 2. ResourcePatternResolver的必要性![](/assets/patternResolver.png)
@@ -11,6 +11,7 @@
 
 6. 使用的是ConfigurableListableBeanFactory![](/assets/obtainConfigurableListableBeanFactory.png)
 
-7. 
+7. javaxInjectProviderClass是能啥的？ 是为了
+
 
 
