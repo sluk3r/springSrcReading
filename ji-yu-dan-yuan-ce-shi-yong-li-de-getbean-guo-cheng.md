@@ -25,8 +25,11 @@
 
 13. Context是一个重要的理念， 不单单像Map一样， 也可以往Context中放使用到的引用，![](/assets/ReaderContext.png)
 
-14. Delegate是真正干活的，这个很正常，外面都被协调给包围了 ![](/assets/delegate.png)这个类是Stateful的考虑是？ 
+14. Delegate是真正干活的，这个很正常，外面都被协调给包围了 ![](/assets/delegate.png)这个类是Stateful的考虑是？
 
-15. 
+15. 都放到BeanDefinitionHolder里了？ 看到BeanDefinition放到![](/assets/parseBeanDefitionElement.png)
+
+16. Spring默认是Singleton的？ 
+
 
 
