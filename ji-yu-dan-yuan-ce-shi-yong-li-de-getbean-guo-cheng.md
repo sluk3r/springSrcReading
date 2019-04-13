@@ -11,7 +11,7 @@
 
 6. 使用的是ConfigurableListableBeanFactory![](/assets/obtainConfigurableListableBeanFactory.png)
 
-7. javaxInjectProviderClass是能啥的？ 是为了
+7. javaxInjectProviderClass是能啥的？ 是为让非Spring的实现注入进来？
 
 
 
