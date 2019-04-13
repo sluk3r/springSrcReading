@@ -1,4 +1,4 @@
-1. 入口类： 
+1. 入口类：   
    ![](/assets/entry.png)
 
 2. ResourcePatternResolver的必要性![](/assets/patternResolver.png)
