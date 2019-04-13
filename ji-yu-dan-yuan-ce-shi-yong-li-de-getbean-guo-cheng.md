@@ -29,7 +29,11 @@
 
 15. 都放到BeanDefinitionHolder里了？ 看到BeanDefinition放到![](/assets/parseBeanDefitionElement.png)
 
-16. Spring默认是Singleton的？ 
+16. Spring默认是Singleton的？
+
+    1. [https://www.quora.com/In-Spring-we-say-beans-are-by-default-singleton-so-is-it-single-instance-per-JVM-or-per-container](https://www.quora.com/In-Spring-we-say-beans-are-by-default-singleton-so-is-it-single-instance-per-JVM-or-per-container)
+
+    2. [https://www.intertech.com/Blog/singleton-beans-lazy-and-not-so-lazy/](https://www.intertech.com/Blog/singleton-beans-lazy-and-not-so-lazy/)
 
 
 
