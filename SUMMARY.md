@@ -6,4 +6,5 @@
 * [Xml配置加载解析过程记录](xmlpei-zhi-jia-zai-jie-xi-guo-cheng-ji-lu.md)
 * [Spring Core](spring-core.md)
 * [吐把Spring的槽](tu-ba-spring-de-cao.md)
+* [BeanDefinitionBuilder](beandefinitionbuilder.md)
 
