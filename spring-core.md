@@ -6,6 +6,7 @@
    2. PropertyValue方面： 
       1. PropertyValuesEditor
       2. ConfigurablePropertyResolver
+   3. BeanDefinitionBuilder
 
 4. 精简地看， Spring是一个大Map。
 
