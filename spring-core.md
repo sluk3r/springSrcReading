@@ -2,7 +2,7 @@
 2. BeanFactory是实现的核心
 3. BeanDefinition
 
-   1. 加载机制BeanDefinitionResource
+   1. 加载机制BeanDefinitionResource，ResourceLoader
    2. PropertyValue方面： 
       1. PropertyValuesEditor
       2. ConfigurablePropertyResolver
