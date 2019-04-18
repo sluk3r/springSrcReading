@@ -7,7 +7,7 @@
       1. PropertyValuesEditor
       2. ConfigurablePropertyResolver
 
-4. 精简地看， Spring是一个大Map，
+4. 精简地看， Spring是一个大Map。
 
 
 
