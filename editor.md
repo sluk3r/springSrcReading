@@ -7,10 +7,11 @@
    1. 初始化后，没有看到Type值![](/assets/initlizedTypedStringValue.png)
 
 5. 这个的意思是？有什么特殊考虑？![](/assets/parseStatePushPop.png)
+
 6. 这个好， 类似于自己设计的,ValueExtractor,从Hibernate中的String类型的Value到自己定义的ValueExtractor![](/assets/TypedStringValueInPropertyValue.png)
 7. TypeDescriptor， ![](/assets/TypeDescriptor.png)
    1. 创建过程![](/assets/firstNameTypeDescriptor.png)
 8. PropertyDescriptor, ![](/assets/PropertyDescriptor.png)
-
+9. 
 
 
