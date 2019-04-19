@@ -7,4 +7,6 @@
 * [Spring Core](spring-core.md)
 * [吐把Spring的槽](tu-ba-spring-de-cao.md)
 * [BeanDefinitionBuilder](beandefinitionbuilder.md)
+* [初始化过程](chu-shi-hua-guo-cheng.md)
+* [Editor](editor.md)
 
