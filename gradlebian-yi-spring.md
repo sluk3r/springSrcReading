@@ -9,7 +9,8 @@
 
 5. IDEA中Cannot access![](/assets/couldNotAccessClass.png)
 
-6. 是不是有Gradle的命令，可以转换成IDEA可直接导入的内容？
+6. 是不是有Gradle的命令，可以转换成IDEA可直接导入的格式？
 
+7. 
 
 
