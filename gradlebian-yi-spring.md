@@ -7,7 +7,7 @@
    4. ![](/assets/单测也能通过.png)
 4. 从Spring在GitHub的Issue开始找人， 是比较合适的。
 
-5. ![](/assets/couldNotAccessClass.png)
+5. IDEA中Cannot access![](/assets/couldNotAccessClass.png)
 
 
 
