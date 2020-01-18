@@ -5,8 +5,9 @@
    2. 在Google上搜词条， 没有找到。 
    3. 看到这样的提醒， ![](/assets/kotlin.png), 是和Kotlin有关么？ 
    4. ![](/assets/单测也能通过.png)
-4. 从Spring在GitHub的Issue开始找人， 是比较合适的。 
+4. 从Spring在GitHub的Issue开始找人， 是比较合适的。
 
-5. 
+5. ![](/assets/couldNotAccessClass.png)
+
 
 
