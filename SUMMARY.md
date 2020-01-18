@@ -9,4 +9,5 @@
 * [BeanDefinitionBuilder](beandefinitionbuilder.md)
 * [初始化过程](chu-shi-hua-guo-cheng.md)
 * [Editor](editor.md)
+* [Gradle编译Spring](gradlebian-yi-spring.md)
 
