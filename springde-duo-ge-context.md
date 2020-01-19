@@ -6,5 +6,7 @@
 
 4. [https://spring.io/blog/2007/06/11/using-a-shared-parent-application-context-in-a-multi-war-spring-application/](https://spring.io/blog/2007/06/11/using-a-shared-parent-application-context-in-a-multi-war-spring-application/)
 
+5. [https://www.baeldung.com/spring-boot-context-hierarchy](https://www.baeldung.com/spring-boot-context-hierarchy)
+
 
 
