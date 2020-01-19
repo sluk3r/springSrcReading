@@ -8,5 +8,7 @@
 
 5. [https://www.baeldung.com/spring-boot-context-hierarchy](https://www.baeldung.com/spring-boot-context-hierarchy)
 
+6. [http://hengyunabc.github.io/something-about-spring-mvc-webapplicationcontext/](http://hengyunabc.github.io/something-about-spring-mvc-webapplicationcontext/)
+
 
 
