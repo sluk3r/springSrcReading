@@ -2,7 +2,8 @@
 
    1. ResourcePatternResolver ![](/assets/ResourcePatternResolver.png)
 
-2. 使用时序图， 简要地
+2. 使用时序图， 简要地下初始化过程。 
 
+3. 
 
 
