@@ -10,4 +10,5 @@
 * [初始化过程](chu-shi-hua-guo-cheng.md)
 * [Editor](editor.md)
 * [Gradle编译Spring](gradlebian-yi-spring.md)
+* [Spring初始化过程](springchu-shi-hua-guo-cheng.md)
 
