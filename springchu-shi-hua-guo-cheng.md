@@ -2,6 +2,7 @@
 
    1. ResourcePatternResolver ![](/assets/ResourcePatternResolver.png)
 
-2. 
+2. 使用时序图， 简要地
+
 
 
